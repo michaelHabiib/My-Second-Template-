@@ -309,7 +309,7 @@ header .container nav .form i {
 /*End serv*/
 /*start design*/
 .design {
-    background-image: url(/images/design-features.jpg);
+    background-image: url(../images/design-features.jpg);
     background-size: cover;
     min-height: 100vh;
     position: relative;
