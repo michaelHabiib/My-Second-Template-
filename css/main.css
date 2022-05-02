@@ -522,7 +522,7 @@ header .container nav .form i {
 .sttas {
     padding-top:var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/images/stats.png);
+    background-image: url(../images/stats.png);
     position: relative;
 }
 .sttas .container .about-cont{
